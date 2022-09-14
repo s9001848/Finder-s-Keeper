@@ -11,10 +11,12 @@ Fork & Clone this repo.
 - [ ] In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://www.atlassian.com/agile/project-management/user-stories) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
----------------------------------------------------------
+1. As a animal lover, I wouldn't want any pets to be stuck at the animal shelters.
+https://www.petfinder.com/developers/
+2. As a food lover and gym fanatic, I want to know how to cook the healthiest food for me to be healthy and strong, so I can share with my fellow gym rats.
+https://www.themealdb.com/api.php
+3. As an anime lover, I want to be able to share the best animes I have watched.
+https://myanimelist.net/clubs.php?cid=13727 / https://jikan.moe/---------------------------------------------------------
 
 - [ ] Make a PR when you're done!
 
