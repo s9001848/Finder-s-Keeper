@@ -1,0 +1,1886 @@
+{
+    "animals": [
+      {
+        "id": 57347101,
+        "organization_id": "GA357",
+        "url": "https:\/\/www.petfinder.com\/dog\/sd-13-57347101\/ga\/lawrenceville\/gwinnett-county-animal-control-and-welfare-ga357\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Golden Retriever",
+          "secondary": null,
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": null,
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": false,
+          "house_trained": false,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": null,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "Sd-13",
+        "description": "Primary Color: Gold Weight: 63lbs Age: 1yrs 0mths 0wks",
+        "organization_animal_id": "90957",
+        "photos": [
+          
+        ],
+        "primary_photo_cropped": null,
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:30:52 0000",
+        "published_at": "2022-09-14T03:30:52 0000",
+        "distance": null,
+        "contact": {
+          "email": "animalwelfare@gwinnettcounty.com",
+          "phone": "(770) 339-3200",
+          "address": {
+            "address1": "884 Winder Hwy (Rte 29)",
+            "address2": null,
+            "city": "Lawrenceville",
+            "state": "GA",
+            "postcode": "30045",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347101"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/ga357"
+          }
+        }
+      },
+      {
+        "id": 57347098,
+        "organization_id": "UT234",
+        "url": "https:\/\/www.petfinder.com\/dog\/paisley-57347098\/ut\/ivins\/new-start-k9-ut234\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Yellow Labrador Retriever",
+          "secondary": null,
+          "mixed": false,
+          "unknown": false
+        },
+        "colors": {
+          "primary": "White \/ Cream",
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": false,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": null,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "Paisley",
+        "description": "pulled for retriever rescue of las vegas",
+        "organization_animal_id": "NSK-A-20",
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347098\/1\/?bust=1663126824\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347098\/1\/?bust=1663126824\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347098\/1\/?bust=1663126824\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347098\/1\/?bust=1663126824"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347098\/1\/?bust=1663126824\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347098\/1\/?bust=1663126824\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347098\/1\/?bust=1663126824\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347098\/1\/?bust=1663126824"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:30:09 0000",
+        "published_at": "2022-09-14T03:30:09 0000",
+        "distance": null,
+        "contact": {
+          "email": "noah@newstartk9.org",
+          "phone": "(435) 922-0155",
+          "address": {
+            "address1": null,
+            "address2": null,
+            "city": "Ivins",
+            "state": "UT",
+            "postcode": "84738",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347098"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/ut234"
+          }
+        }
+      },
+      {
+        "id": 57347097,
+        "organization_id": "ID155",
+        "url": "https:\/\/www.petfinder.com\/dog\/quentin-57347097\/wa\/olympia\/freedom-bound-hounds-id155\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Border Collie",
+          "secondary": "Beagle",
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": null,
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": true,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": true,
+          "dogs": true,
+          "cats": true
+        },
+        "tags": [
+          
+        ],
+        "name": "Quentin",
+        "description": "2 year old Quentin is a 40 lb mixed breed with a happy go lucky attitude! His breed is only...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347097\/1\/?bust=1663126156\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347097\/1\/?bust=1663126156\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347097\/1\/?bust=1663126156\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347097\/1\/?bust=1663126156"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347097\/1\/?bust=1663126156\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347097\/1\/?bust=1663126156\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347097\/1\/?bust=1663126156\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347097\/1\/?bust=1663126156"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:29:17 0000",
+        "published_at": "2022-09-14T03:29:17 0000",
+        "distance": null,
+        "contact": {
+          "email": "freedomboundhounds@gmail.com",
+          "phone": null,
+          "address": {
+            "address1": null,
+            "address2": null,
+            "city": "Olympia",
+            "state": "WA",
+            "postcode": "98501",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347097"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/id155"
+          }
+        }
+      },
+      {
+        "id": 57347093,
+        "organization_id": "ID155",
+        "url": "https:\/\/www.petfinder.com\/dog\/mariah-57347093\/id\/boise\/freedom-bound-hounds-id155\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "American Staffordshire Terrier",
+          "secondary": "Chihuahua",
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": null,
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": true,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": true,
+          "dogs": true,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "Mariah",
+        "description": "Every day is a great day with Mariah! \n1 year old Mariah is such an angel! This girl is such...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/1\/?bust=1663126106\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/1\/?bust=1663126106\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/1\/?bust=1663126106\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/1\/?bust=1663126106"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/2\/?bust=1663126181\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/2\/?bust=1663126181\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/2\/?bust=1663126181\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/2\/?bust=1663126181"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/1\/?bust=1663126106\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/1\/?bust=1663126106\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/1\/?bust=1663126106\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347093\/1\/?bust=1663126106"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:28:27 0000",
+        "published_at": "2022-09-14T03:28:27 0000",
+        "distance": null,
+        "contact": {
+          "email": "freedomboundhounds@gmail.com",
+          "phone": null,
+          "address": {
+            "address1": null,
+            "address2": null,
+            "city": "Boise",
+            "state": "ID",
+            "postcode": "83704",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347093"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/id155"
+          }
+        }
+      },
+      {
+        "id": 57347090,
+        "organization_id": "CA2261",
+        "url": "https:\/\/www.petfinder.com\/dog\/bentley-57347090\/pa\/perkasie\/australian-shepherds-furever-ca2261\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Australian Shepherd",
+          "secondary": null,
+          "mixed": false,
+          "unknown": false
+        },
+        "colors": {
+          "primary": "Merle (Blue)",
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": "Medium",
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": true,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": false,
+          "dogs": true,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "Bentley",
+        "description": "This handsome boy is Bentley. He is an incredibly loving dog, but takes time to warm up to people.  He...",
+        "organization_animal_id": "3947",
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/1\/?bust=1663126079\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/1\/?bust=1663126079\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/1\/?bust=1663126079\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/1\/?bust=1663126079"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/2\/?bust=1663126079\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/2\/?bust=1663126079\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/2\/?bust=1663126079\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/2\/?bust=1663126079"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/3\/?bust=1663126080\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/3\/?bust=1663126080\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/3\/?bust=1663126080\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/3\/?bust=1663126080"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/4\/?bust=1663126080\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/4\/?bust=1663126080\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/4\/?bust=1663126080\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/4\/?bust=1663126080"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/1\/?bust=1663126079\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/1\/?bust=1663126079\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/1\/?bust=1663126079\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347090\/1\/?bust=1663126079"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:28:01 0000",
+        "published_at": "2022-09-14T03:28:01 0000",
+        "distance": null,
+        "contact": {
+          "email": "australianshepherdsfurever@gmail.com",
+          "phone": null,
+          "address": {
+            "address1": null,
+            "address2": null,
+            "city": "Perkasie",
+            "state": "PA",
+            "postcode": "18944",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347090"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/ca2261"
+          }
+        }
+      },
+      {
+        "id": 57347088,
+        "organization_id": "IN428",
+        "url": "https:\/\/www.petfinder.com\/dog\/astro-57347088\/il\/naperville\/humane-society-of-scott-county-indiana-in428\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Boxer",
+          "secondary": "Terrier",
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": null,
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": true,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": true,
+          "cats": false
+        },
+        "tags": [
+          
+        ],
+        "name": "ASTRO",
+        "description": "Astro\u0026quot; boxer mix\n1 yr   neutered male\n\nA GREAT ALL AROUND DOG! Astro, a 1 yr old neutered boxer mix,...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/3\/?bust=1663126070\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/3\/?bust=1663126070\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/3\/?bust=1663126070\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/3\/?bust=1663126070"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/1\/?bust=1663126069\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/1\/?bust=1663126069\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/1\/?bust=1663126069\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/1\/?bust=1663126069"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/2\/?bust=1663126070\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/2\/?bust=1663126070\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/2\/?bust=1663126070\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/2\/?bust=1663126070"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/4\/?bust=1663126071\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/4\/?bust=1663126071\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/4\/?bust=1663126071\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/4\/?bust=1663126071"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/3\/?bust=1663126070\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/3\/?bust=1663126070\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/3\/?bust=1663126070\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347088\/3\/?bust=1663126070"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:27:52 0000",
+        "published_at": "2022-09-14T03:27:52 0000",
+        "distance": null,
+        "contact": {
+          "email": "hsscinfo@frontier.com",
+          "phone": "(812) 752-7500",
+          "address": {
+            "address1": null,
+            "address2": null,
+            "city": "Naperville",
+            "state": "IL",
+            "postcode": "60565",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347088"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/in428"
+          }
+        }
+      },
+      {
+        "id": 57347087,
+        "organization_id": "CO285",
+        "url": "https:\/\/www.petfinder.com\/dog\/bailey-57347087\/co\/aurora\/big-dogs-huge-paws-inc-co285\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Great Dane",
+          "secondary": null,
+          "mixed": false,
+          "unknown": false
+        },
+        "colors": {
+          "primary": "Bicolor",
+          "secondary": "Black",
+          "tertiary": "White \/ Cream"
+        },
+        "age": "Baby",
+        "gender": "Female",
+        "size": "Extra Large",
+        "coat": "Short",
+        "attributes": {
+          "spayed_neutered": false,
+          "house_trained": true,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": true,
+          "dogs": true,
+          "cats": null
+        },
+        "tags": [
+          "Dignified",
+          "Friendly",
+          "Gentle"
+        ],
+        "name": "Bailey",
+        "description": "Bailey is a stunning black and white, 8 month old, female Great Dane. She is leash trained, house trained, crate...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/1\/?bust=1663126041\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/1\/?bust=1663126041\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/1\/?bust=1663126041\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/1\/?bust=1663126041"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/2\/?bust=1663126042\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/2\/?bust=1663126042\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/2\/?bust=1663126042\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/2\/?bust=1663126042"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/3\/?bust=1663126043\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/3\/?bust=1663126043\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/3\/?bust=1663126043\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/3\/?bust=1663126043"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/1\/?bust=1663126041\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/1\/?bust=1663126041\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/1\/?bust=1663126041\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347087\/1\/?bust=1663126041"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:27:24 0000",
+        "published_at": "2022-09-14T03:27:24 0000",
+        "distance": null,
+        "contact": {
+          "email": "WeCare@BigDogsHugePaws.com",
+          "phone": "(303) 322-4336",
+          "address": {
+            "address1": "PO BOX 761",
+            "address2": null,
+            "city": "Aurora",
+            "state": "CO",
+            "postcode": "80046",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347087"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/co285"
+          }
+        }
+      },
+      {
+        "id": 57347073,
+        "organization_id": "IN428",
+        "url": "https:\/\/www.petfinder.com\/dog\/roxie-57347073\/ky\/louisville\/humane-society-of-scott-county-indiana-in428\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Shepherd",
+          "secondary": "Australian Kelpie",
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": null,
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": false,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": null,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "ROXIE",
+        "description": "Roxie  shepherd\/kelpie mix\n3-4 yrs   spayed female\n\nRoxie will sit and shake and is super smart! Catches on to commands...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/1\/?bust=1663125833\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/1\/?bust=1663125833\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/1\/?bust=1663125833\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/1\/?bust=1663125833"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/2\/?bust=1663125834\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/2\/?bust=1663125834\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/2\/?bust=1663125834\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/2\/?bust=1663125834"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/3\/?bust=1663125834\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/3\/?bust=1663125834\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/3\/?bust=1663125834\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/3\/?bust=1663125834"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/1\/?bust=1663125833\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/1\/?bust=1663125833\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/1\/?bust=1663125833\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347073\/1\/?bust=1663125833"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:23:55 0000",
+        "published_at": "2022-09-14T03:23:55 0000",
+        "distance": null,
+        "contact": {
+          "email": "hsscinfo@frontier.com",
+          "phone": "(812) 752-7500",
+          "address": {
+            "address1": null,
+            "address2": null,
+            "city": "Louisville",
+            "state": "KY",
+            "postcode": "40245",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347073"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/in428"
+          }
+        }
+      },
+      {
+        "id": 57347071,
+        "organization_id": "CO285",
+        "url": "https:\/\/www.petfinder.com\/dog\/bruce-57347071\/co\/aurora\/big-dogs-huge-paws-inc-co285\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Mastiff",
+          "secondary": null,
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Male",
+        "size": "Extra Large",
+        "coat": "Short",
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": true,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": true,
+          "cats": null
+        },
+        "tags": [
+          "Friendly",
+          "Playful",
+          "Affectionate",
+          "Funny"
+        ],
+        "name": "Bruce",
+        "description": "Here\u0026#039;s Bruce, a fawn Mastiff Mix feller and record setter! Of his 2 years of life (24 months), he has...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/1\/?bust=1663125777\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/1\/?bust=1663125777\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/1\/?bust=1663125777\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/1\/?bust=1663125777"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/2\/?bust=1663125778\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/2\/?bust=1663125778\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/2\/?bust=1663125778\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/2\/?bust=1663125778"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/3\/?bust=1663125779\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/3\/?bust=1663125779\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/3\/?bust=1663125779\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/3\/?bust=1663125779"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/4\/?bust=1663125779\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/4\/?bust=1663125779\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/4\/?bust=1663125779\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/4\/?bust=1663125779"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/5\/?bust=1663125780\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/5\/?bust=1663125780\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/5\/?bust=1663125780\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/5\/?bust=1663125780"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/1\/?bust=1663125777\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/1\/?bust=1663125777\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/1\/?bust=1663125777\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347071\/1\/?bust=1663125777"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:23:29 0000",
+        "published_at": "2022-09-14T03:23:29 0000",
+        "distance": null,
+        "contact": {
+          "email": "WeCare@BigDogsHugePaws.com",
+          "phone": "(303) 322-4336",
+          "address": {
+            "address1": "PO BOX 761",
+            "address2": null,
+            "city": "Aurora",
+            "state": "CO",
+            "postcode": "80046",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347071"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/co285"
+          }
+        }
+      },
+      {
+        "id": 57347068,
+        "organization_id": "CT31",
+        "url": "https:\/\/www.petfinder.com\/dog\/serena-57347068\/ct\/danbury\/danbury-animal-welfare-society-inc-daws-ct31\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Catahoula Leopard Dog",
+          "secondary": null,
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": null,
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": false,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": null,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "Serena",
+        "description": "This gorgeous girl is Serena. She is a one-year-old catahoula leopard mix and weighs 35 lbs. Serena is a sweetheart....",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/1\/?bust=1663125742\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/1\/?bust=1663125742\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/1\/?bust=1663125742\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/1\/?bust=1663125742"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/2\/?bust=1663125743\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/2\/?bust=1663125743\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/2\/?bust=1663125743\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/2\/?bust=1663125743"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/3\/?bust=1663125744\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/3\/?bust=1663125744\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/3\/?bust=1663125744\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/3\/?bust=1663125744"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/4\/?bust=1663125745\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/4\/?bust=1663125745\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/4\/?bust=1663125745\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/4\/?bust=1663125745"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/5\/?bust=1663125746\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/5\/?bust=1663125746\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/5\/?bust=1663125746\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/5\/?bust=1663125746"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/1\/?bust=1663125742\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/1\/?bust=1663125742\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/1\/?bust=1663125742\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347068\/1\/?bust=1663125742"
+        },
+        "videos": [
+          {
+            "embed": "\u003Ciframe title=\u0022Video\u0022 src=\u0022https:\/\/www.youtube.com\/embed\/Pxv0l6DAvtg?enablejsapi=1\u0022 frameborder=\u00220\u0022 allowfullscreen\u003E\u003C\/iframe\u003E"
+          }
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:22:27 0000",
+        "published_at": "2022-09-14T03:22:27 0000",
+        "distance": null,
+        "contact": {
+          "email": "daws@daws.org",
+          "phone": "(203) 744-3297",
+          "address": {
+            "address1": "147 Grassy Plain St.",
+            "address2": null,
+            "city": "Danbury",
+            "state": "CT",
+            "postcode": "06813",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347068"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/ct31"
+          }
+        }
+      },
+      {
+        "id": 57347067,
+        "organization_id": "LA368",
+        "url": "https:\/\/www.petfinder.com\/dog\/callie-benefactor-dog-57347067\/la\/new-orleans\/take-paws-rescue-la368\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Poodle",
+          "secondary": "Chihuahua",
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": "White \/ Cream",
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Female",
+        "size": "Medium",
+        "coat": "Short",
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": true,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": true,
+          "dogs": true,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "Callie (Benefactor Dog)",
+        "description": "Introducing Callie! If you are looking for a small, fluffy lap dog, look no further! Isn\u2019t she a doll?\n\nCallie...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/3\/?bust=1663125720\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/3\/?bust=1663125720\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/3\/?bust=1663125720\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/3\/?bust=1663125720"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/1\/?bust=1663125718\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/1\/?bust=1663125718\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/1\/?bust=1663125718\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/1\/?bust=1663125718"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/2\/?bust=1663125719\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/2\/?bust=1663125719\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/2\/?bust=1663125719\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/2\/?bust=1663125719"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/4\/?bust=1663125720\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/4\/?bust=1663125720\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/4\/?bust=1663125720\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/4\/?bust=1663125720"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/5\/?bust=1663125721\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/5\/?bust=1663125721\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/5\/?bust=1663125721\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/5\/?bust=1663125721"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/6\/?bust=1663125722\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/6\/?bust=1663125722\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/6\/?bust=1663125722\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/6\/?bust=1663125722"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/3\/?bust=1663125720\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/3\/?bust=1663125720\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/3\/?bust=1663125720\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347067\/3\/?bust=1663125720"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:22:03 0000",
+        "published_at": "2022-09-14T03:22:03 0000",
+        "distance": null,
+        "contact": {
+          "email": "petfinder@takepawsrescue.org",
+          "phone": null,
+          "address": {
+            "address1": null,
+            "address2": null,
+            "city": "New Orleans",
+            "state": "LA",
+            "postcode": "70124",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347067"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/la368"
+          }
+        }
+      },
+      {
+        "id": 57347046,
+        "organization_id": "CA1973",
+        "url": "https:\/\/www.petfinder.com\/dog\/sandy-57347046\/ca\/san-francisco\/love-and-second-chances-ca1973\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Jindo",
+          "secondary": null,
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": null,
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Baby",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": false,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": true,
+          "dogs": true,
+          "cats": null
+        },
+        "tags": [
+          "Friendly",
+          "Playful",
+          "Athletic"
+        ],
+        "name": "Sandy",
+        "description": "Meet Sandy! Sandy is a very sweet dog who is patiently waiting for a loving forever home! To get more...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347046\/1\/?bust=1663125626\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347046\/1\/?bust=1663125626\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347046\/1\/?bust=1663125626\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347046\/1\/?bust=1663125626"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347046\/1\/?bust=1663125626\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347046\/1\/?bust=1663125626\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347046\/1\/?bust=1663125626\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347046\/1\/?bust=1663125626"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:20:28 0000",
+        "published_at": "2022-09-14T03:20:28 0000",
+        "distance": null,
+        "contact": {
+          "email": "Melody@lovesecondchances.org",
+          "phone": null,
+          "address": {
+            "address1": null,
+            "address2": null,
+            "city": "San Francisco",
+            "state": "CA",
+            "postcode": "94115",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347046"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/ca1973"
+          }
+        }
+      },
+      {
+        "id": 57347044,
+        "organization_id": "IN428",
+        "url": "https:\/\/www.petfinder.com\/dog\/ziggy-star-star-please-help-star-star-57347044\/in\/scottsburg\/humane-society-of-scott-county-indiana-in428\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Australian Shepherd",
+          "secondary": null,
+          "mixed": false,
+          "unknown": false
+        },
+        "colors": {
+          "primary": null,
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": false,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": null,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "ZIGGY  **PLEASE HELP**",
+        "description": "Ziggy  Australian Shepherd\n1 yr   male\n\nTurned in by family due to death of owner. will be gorgeous once he...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/1\/?bust=1663125601\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/1\/?bust=1663125601\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/1\/?bust=1663125601\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/1\/?bust=1663125601"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/2\/?bust=1663125603\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/2\/?bust=1663125603\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/2\/?bust=1663125603\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/2\/?bust=1663125603"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/1\/?bust=1663125601\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/1\/?bust=1663125601\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/1\/?bust=1663125601\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347044\/1\/?bust=1663125601"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:20:05 0000",
+        "published_at": "2022-09-14T03:20:05 0000",
+        "distance": null,
+        "contact": {
+          "email": "hsscinfo@frontier.com",
+          "phone": "(812) 752-7500",
+          "address": {
+            "address1": "PO Box 711",
+            "address2": null,
+            "city": "Scottsburg",
+            "state": "IN",
+            "postcode": "47170",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347044"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/in428"
+          }
+        }
+      },
+      {
+        "id": 57347042,
+        "organization_id": "CO285",
+        "url": "https:\/\/www.petfinder.com\/dog\/wix-57347042\/co\/aurora\/big-dogs-huge-paws-inc-co285\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Great Pyrenees",
+          "secondary": null,
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": "White \/ Cream",
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Baby",
+        "gender": "Male",
+        "size": "Extra Large",
+        "coat": "Long",
+        "attributes": {
+          "spayed_neutered": false,
+          "house_trained": true,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": null,
+          "cats": null
+        },
+        "tags": [
+          "Friendly",
+          "Affectionate",
+          "Playful",
+          "Curious",
+          "Independent"
+        ],
+        "name": "Wix",
+        "description": "This delightful little gem is Mr. Wix. He is a Great Pyrenees Mix who is 3 months old. He may...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/1\/?bust=1663125486\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/1\/?bust=1663125486\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/1\/?bust=1663125486\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/1\/?bust=1663125486"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/2\/?bust=1663125487\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/2\/?bust=1663125487\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/2\/?bust=1663125487\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/2\/?bust=1663125487"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/3\/?bust=1663125487\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/3\/?bust=1663125487\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/3\/?bust=1663125487\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/3\/?bust=1663125487"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/4\/?bust=1663125488\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/4\/?bust=1663125488\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/4\/?bust=1663125488\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/4\/?bust=1663125488"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/1\/?bust=1663125486\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/1\/?bust=1663125486\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/1\/?bust=1663125486\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347042\/1\/?bust=1663125486"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:18:09 0000",
+        "published_at": "2022-09-14T03:18:09 0000",
+        "distance": null,
+        "contact": {
+          "email": "WeCare@BigDogsHugePaws.com",
+          "phone": "(303) 322-4336",
+          "address": {
+            "address1": "PO BOX 761",
+            "address2": null,
+            "city": "Aurora",
+            "state": "CO",
+            "postcode": "80046",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347042"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/co285"
+          }
+        }
+      },
+      {
+        "id": 57347038,
+        "organization_id": "IN428",
+        "url": "https:\/\/www.petfinder.com\/dog\/kip-star-star-please-help-star-star-57347038\/in\/scottsburg\/humane-society-of-scott-county-indiana-in428\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Corgi",
+          "secondary": "Golden Retriever",
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": null,
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Male",
+        "size": "Small",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": false,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": null,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "KIP **PLEASE HELP**",
+        "description": "Kip  corgi\/golden mix\n4-5 yrs   Neutered male\n\nSurrendered due to owner\u2019s health issues. He realized it was best for his...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/2\/?bust=1663125363\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/2\/?bust=1663125363\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/2\/?bust=1663125363\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/2\/?bust=1663125363"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/1\/?bust=1663125362\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/1\/?bust=1663125362\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/1\/?bust=1663125362\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/1\/?bust=1663125362"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/2\/?bust=1663125363\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/2\/?bust=1663125363\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/2\/?bust=1663125363\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347038\/2\/?bust=1663125363"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:16:04 0000",
+        "published_at": "2022-09-14T03:16:04 0000",
+        "distance": null,
+        "contact": {
+          "email": "hsscinfo@frontier.com",
+          "phone": "(812) 752-7500",
+          "address": {
+            "address1": "PO Box 711",
+            "address2": null,
+            "city": "Scottsburg",
+            "state": "IN",
+            "postcode": "47170",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347038"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/in428"
+          }
+        }
+      },
+      {
+        "id": 57347036,
+        "organization_id": "GA357",
+        "url": "https:\/\/www.petfinder.com\/dog\/sd-11-57347036\/ga\/lawrenceville\/gwinnett-county-animal-control-and-welfare-ga357\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Labrador Retriever",
+          "secondary": null,
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": null,
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Male",
+        "size": "Large",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": false,
+          "house_trained": false,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": null,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "Sd-11",
+        "description": "Primary Color: Black Weight: 83.5lbs Age: 2yrs 0mths 0wks",
+        "organization_animal_id": "90956",
+        "photos": [
+          
+        ],
+        "primary_photo_cropped": null,
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:15:56 0000",
+        "published_at": "2022-09-14T03:15:56 0000",
+        "distance": null,
+        "contact": {
+          "email": "animalwelfare@gwinnettcounty.com",
+          "phone": "(770) 339-3200",
+          "address": {
+            "address1": "884 Winder Hwy (Rte 29)",
+            "address2": null,
+            "city": "Lawrenceville",
+            "state": "GA",
+            "postcode": "30045",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347036"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/ga357"
+          }
+        }
+      },
+      {
+        "id": 57347034,
+        "organization_id": "OK476",
+        "url": "https:\/\/www.petfinder.com\/dog\/lady-57347034\/ok\/tulsa\/oklahoma-german-shepherd-rescue-ok476\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "German Shepherd Dog",
+          "secondary": null,
+          "mixed": false,
+          "unknown": false
+        },
+        "colors": {
+          "primary": "Black",
+          "secondary": "Yellow \/ Tan \/ Blond \/ Fawn",
+          "tertiary": null
+        },
+        "age": "Adult",
+        "gender": "Female",
+        "size": "Large",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": false,
+          "house_trained": false,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": null,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "Lady",
+        "description": "Meet Lady!\nAge: 2\nLocation: Tulsa \nLong haired shepherd\nWe pulled Lady from a shelter and she is a very...",
+        "organization_animal_id": "OKGS-A-535",
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/1\/?bust=1663125929\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/1\/?bust=1663125929\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/1\/?bust=1663125929\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/1\/?bust=1663125929"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/2\/?bust=1663125935\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/2\/?bust=1663125935\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/2\/?bust=1663125935\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/2\/?bust=1663125935"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/1\/?bust=1663125929\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/1\/?bust=1663125929\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/1\/?bust=1663125929\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347034\/1\/?bust=1663125929"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:15:16 0000",
+        "published_at": "2022-09-14T03:15:16 0000",
+        "distance": null,
+        "contact": {
+          "email": "oklahomagsr@gmail.com",
+          "phone": "(918) 928-9944",
+          "address": {
+            "address1": null,
+            "address2": null,
+            "city": "Tulsa",
+            "state": "OK",
+            "postcode": "74137",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347034"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/ok476"
+          }
+        }
+      },
+      {
+        "id": 57347033,
+        "organization_id": "OK476",
+        "url": "https:\/\/www.petfinder.com\/dog\/baka-57347033\/ok\/tulsa\/oklahoma-german-shepherd-rescue-ok476\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "German Shepherd Dog",
+          "secondary": null,
+          "mixed": false,
+          "unknown": false
+        },
+        "colors": {
+          "primary": "Black",
+          "secondary": "Yellow \/ Tan \/ Blond \/ Fawn",
+          "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Male",
+        "size": "Large",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": false,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": null,
+          "cats": null
+        },
+        "tags": [
+          
+        ],
+        "name": "Baka",
+        "description": "Meet Baka!!\nAge: 1\nSex: Male \nLocation: Tulsa \nGerman shepherd \nBaka is in boarding so we have limited info on...",
+        "organization_animal_id": "OKGS-A-529",
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347033\/1\/?bust=1663125931\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347033\/1\/?bust=1663125931\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347033\/1\/?bust=1663125931\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347033\/1\/?bust=1663125931"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347033\/1\/?bust=1663125931\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347033\/1\/?bust=1663125931\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347033\/1\/?bust=1663125931\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347033\/1\/?bust=1663125931"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:15:16 0000",
+        "published_at": "2022-09-14T03:15:16 0000",
+        "distance": null,
+        "contact": {
+          "email": "oklahomagsr@gmail.com",
+          "phone": "(918) 928-9944",
+          "address": {
+            "address1": null,
+            "address2": null,
+            "city": "Tulsa",
+            "state": "OK",
+            "postcode": "74137",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347033"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/ok476"
+          }
+        }
+      },
+      {
+        "id": 57347028,
+        "organization_id": "CO285",
+        "url": "https:\/\/www.petfinder.com\/dog\/hannah-57347028\/co\/aurora\/big-dogs-huge-paws-inc-co285\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Great Pyrenees",
+          "secondary": null,
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": "White \/ Cream",
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Baby",
+        "gender": "Female",
+        "size": "Extra Large",
+        "coat": "Long",
+        "attributes": {
+          "spayed_neutered": false,
+          "house_trained": true,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": null,
+          "dogs": null,
+          "cats": null
+        },
+        "tags": [
+          "Playful",
+          "Curious",
+          "Friendly",
+          "Independent"
+        ],
+        "name": "Hannah",
+        "description": "This delightful little gem is Miss Hannah. She is a 3 month old Great Pyrenees Mix. She may become quite...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/1\/?bust=1663125192\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/1\/?bust=1663125192\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/1\/?bust=1663125192\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/1\/?bust=1663125192"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/2\/?bust=1663125193\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/2\/?bust=1663125193\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/2\/?bust=1663125193\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/2\/?bust=1663125193"
+          },
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/3\/?bust=1663125194\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/3\/?bust=1663125194\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/3\/?bust=1663125194\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/3\/?bust=1663125194"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/1\/?bust=1663125192\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/1\/?bust=1663125192\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/1\/?bust=1663125192\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347028\/1\/?bust=1663125192"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:13:15 0000",
+        "published_at": "2022-09-14T03:13:15 0000",
+        "distance": null,
+        "contact": {
+          "email": "WeCare@BigDogsHugePaws.com",
+          "phone": "(303) 322-4336",
+          "address": {
+            "address1": "PO BOX 761",
+            "address2": null,
+            "city": "Aurora",
+            "state": "CO",
+            "postcode": "80046",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347028"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/co285"
+          }
+        }
+      },
+      {
+        "id": 57347027,
+        "organization_id": "ID155",
+        "url": "https:\/\/www.petfinder.com\/dog\/quentin-57347027\/id\/boise\/freedom-bound-hounds-id155\/?referrer_id=49348ee1-9bbd-4868-b775-5fb6823f6788",
+        "type": "Dog",
+        "species": "Dog",
+        "breeds": {
+          "primary": "Border Collie",
+          "secondary": "Beagle",
+          "mixed": true,
+          "unknown": false
+        },
+        "colors": {
+          "primary": null,
+          "secondary": null,
+          "tertiary": null
+        },
+        "age": "Young",
+        "gender": "Male",
+        "size": "Medium",
+        "coat": null,
+        "attributes": {
+          "spayed_neutered": true,
+          "house_trained": true,
+          "declawed": null,
+          "special_needs": false,
+          "shots_current": true
+        },
+        "environment": {
+          "children": true,
+          "dogs": true,
+          "cats": true
+        },
+        "tags": [
+          
+        ],
+        "name": "Quentin",
+        "description": "2 year old Quentin is a 40 lb mixed breed with a happy go lucky attitude! His breed is only...",
+        "organization_animal_id": null,
+        "photos": [
+          {
+            "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347027\/1\/?bust=1663125160\u0026width=100",
+            "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347027\/1\/?bust=1663125160\u0026width=300",
+            "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347027\/1\/?bust=1663125160\u0026width=600",
+            "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347027\/1\/?bust=1663125160"
+          }
+        ],
+        "primary_photo_cropped": {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347027\/1\/?bust=1663125160\u0026width=300",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347027\/1\/?bust=1663125160\u0026width=450",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347027\/1\/?bust=1663125160\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/57347027\/1\/?bust=1663125160"
+        },
+        "videos": [
+          
+        ],
+        "status": "adoptable",
+        "status_changed_at": "2022-09-14T03:12:41 0000",
+        "published_at": "2022-09-14T03:12:41 0000",
+        "distance": null,
+        "contact": {
+          "email": "freedomboundhounds@gmail.com",
+          "phone": null,
+          "address": {
+            "address1": null,
+            "address2": null,
+            "city": "Boise",
+            "state": "ID",
+            "postcode": "83704",
+            "country": "US"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/v2\/animals\/57347027"
+          },
+          "type": {
+            "href": "\/v2\/types\/dog"
+          },
+          "organization": {
+            "href": "\/v2\/organizations\/id155"
+          }
+        }
+      }
+    ],
+    "pagination": {
+      "count_per_page": 20,
+      "total_count": 124438,
+      "current_page": 2,
+      "total_pages": 6222,
+      "_links": {
+        "previous": {
+          "href": "\/v2\/animals?page=1\u0026type=dog"
+        },
+        "next": {
+          "href": "\/v2\/animals?page=3\u0026type=dog"
+        }
+      }
+    }
+  }

@@ -29,9 +29,11 @@
   },
   "dependencies": {
     "@ngneat/falso": "^6.1.0",
+    "@petfinder/petfinder-js": "^1.0.6",
     "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
+    "curl": "^0.1.4",
     "dotenv": "^16.0.2",
     "ejs": "^3.1.8",
     "express": "^4.18.1",
@@ -41,8 +43,11 @@
     "morgan": "^1.10.0",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
+    "pet-finder-api": "^1.0.1",
+    "petfinder": "^0.1.1",
     "pg": "^8.8.0",
     "pg-hstore": "^2.3.4",
-    "sequelize": "^6.21.6"
+    "sequelize": "^6.21.6",
+    "sequelize-cli": "^6.4.1"
   }
 }
