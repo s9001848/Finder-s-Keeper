@@ -1,11 +1,11 @@
 {
   "development": {
-    "database": "express_auth_dev",
+    "database": "finders_keeper",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "database": "express_auth_test",
+    "database": "finders_keeper",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },

@@ -43,47 +43,48 @@ app.use((req, res, next) => {
   next();
 });
 
-app.get('/', (req, res) => {
-  res.render('index');
-})
-
 // Add this above /auth controllers
-// app.get('/profile', isLoggedIn, (req, res) => {
-//   const { id, name, email } = req.user.get(); 
-//   res.render('profile', { id, name, email });
-// });
+app.get('/profile', isLoggedIn, (req, res) => {
+  const { id, name, email } = req.user.get();
+  res.render('profile', { id, name, email });
+});
 
 // controllers
 app.use('/auth', require('./controllers/auth'));
-app.use('/animals', require('./controllers/animals.js'));
-app.use('/profile', require('./controllers/profile'));
+// app.use('/animals', require('./controllers/animals.js'));
+// app.use('/profile', require('./controllers/profile'));
 
 //home route
-app.get('/', (req, res)=>{
-  let gettingToken = `grant_type=client_credentials&client_id=${petFinderKey}&client_secret=${petFinderSecret}`
-  axios.post(`https://api.petfinder.com/v2/oauth2/token`, gettingToken)
-  .then(accessToken => {
+app.get('/', (req, res) => {
+  const params = new URLSearchParams();
+  params.append('grant_type', 'client_credentials');
+  params.append('client_id', petFinderKey);
+  params.append('client_secret', petFinderSecret);
+  axios.post(`https://api.petfinder.com/v2/oauth2/token`, params)
+    .then(accessToken => {
       const header = "Bearer " + accessToken.data.access_token;
       const options = {
-          method: 'GET',
-          headers: {'Authorization': header},
-          url: "https://api.petfinder.com/v2/animals?special_needs=true&limit=100"
+        method: 'GET',
+        headers: { 'Authorization': header },
+        url: "https://api.petfinder.com/v2/animals?type=dog&page=2"
       }
-  axios(options)
-  .then((response) => {
-      let animals = response.data.animals
-          res.render('home', {animals: animals})  
-      })
-  })
-  .catch(error => {
+      axios(options)
+        .then((response) => {
+          let animals = response.data.animals
+          res.render('index', { animals: animals })
+        })
+        .catch(error => {
+          console.log(error)
+        })
+    })
+    .catch(error => {
       console.log(error)
-  }) 
-})
+    })
+    })
 
+  const PORT = process.env.PORT || 3000;
+  const server = app.listen(PORT, () => {
+    console.log(`🎧 You're listening to the smooth sounds of port ${PORT} 🎧`);
+  });
 
-const PORT = process.env.PORT || 3000;
-const server = app.listen(PORT, () => {
-  console.log(`🎧 You're listening to the smooth sounds of port ${PORT} 🎧`);
-});
-
-module.exports = server;
+  module.exports = server;

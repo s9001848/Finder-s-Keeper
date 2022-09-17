@@ -31,6 +31,7 @@
     "@ngneat/falso": "^6.1.0",
     "@petfinder/petfinder-js": "^1.0.6",
     "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
     "curl": "^0.1.4",

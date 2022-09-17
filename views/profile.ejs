@@ -1,7 +1,30 @@
-<h2>Profile Page</h2>
+<nav class="navBorder navbar navbar-light" style="background-color: #ffffff;">
+    <h3 class="navTags">Finders Keeper</h3>
+    <a class="navTags" href="/animals">Search For More Pets</a>
+    <a class="navTags" href="/">Homepage</a>
+    <a class="navTags" href="/auth/logout">Logout</a>
+</nav>
 
-<h3>Welcome to your PROFILE</h3>
+<h2 class="headingText"><%= currentUser.name %>'s Favorited Pets:</h2>
 
-<p>Id: <%= id %></p>
-<p>Name: <%= name %></p>
-<p>Email: <%= email %></p>
+<div class="parent">
+    <% pets.forEach(function(animal) {%>
+        <div class="child">
+            <div class="petInfo">
+                <h3>
+                    <a href="/profile/<%= animal.animalId %> "><%= animal.name %> </a>
+                </h3>
+                <h5> Age: <%= animal.age %> </h5>
+                <% if (animal.breed != null) {%> 
+                <h5> Breed: <%= animal.breed %> </h5> 
+                <% } else { %> 
+                    <h5>Breed: Unknown</h5>
+                <% } %>
+                <form action="/profile/<%= animal.id %>?_method=DELETE" method="POST">
+                    <button type="submit" class="btn btn-primary"> Remove from favorites</button>
+                </form>
+            </div>
+        </div>
+    <% }) %>
+</div>
+

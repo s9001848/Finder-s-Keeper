@@ -1,10 +1,25 @@
-<form action="/auth/login" method="POST">
-    <label for="auth-email">Email</label>
-    <input id="auth-email" type="email" name="email" required>
+<nav class="navBorder navbar navbar-light" style="background-color: #c4c4c4;">
+    <h3>Finders Keeper</h3>
+    <a class="navTags" href="/">home</a>
+</nav>
 
-    <label for="auth-password">Password</label>
-    <input id="auth-password" type="password" name="password" required>
-
-    <input type="submit" value="Log In">
-</form>
-  
+<div class="parent">
+    <div class="child">
+        <h2 class="signUp">Login</h2>
+        <form action="/auth/login" method="POST">
+            <div class="email">
+                <label for="auth-email">Email:</label>
+                <input id="auth-email" type="email" name="email">
+            </div>
+            <br />
+            <div class="password">
+                <label for="auth-password">Password:</label>
+                <input id="auth-password" type="password" name="password">
+                <br />
+            </div>
+            <input class="submitButton btn btn-secondary btn-lg" type="submit" value="Log In">
+        </form>
+    </div>
+    <div class="image">
+    </div>
+</div>

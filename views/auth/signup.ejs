@@ -1,13 +1,31 @@
-<form action="/auth/signup" method="POST">
-    <label for="new-email">Email</label>
-    <input id="new-email" type="email" name="email" required>
-  
-    <label for="new-name">Name</label>
-    <input id="new-name" type="text" name="name" required>
-  
-    <label for="new-password">Password</label>
-    <input id="new-password" type="password" name="password" required>
-  
-    <input type="submit" value="Sign up">
-</form>
-  
+<nav class="navBorder navbar navbar-light" style="background-color: #ffffff;">
+    <h3 class="navTags">Finders Keeper</h3>
+    <a class="navTags" href="/">Homepage</a>
+</nav>
+
+<div class="parent">
+    <div class="child">
+        <h1 class="signUp">Signup</h1>
+        <form action="/auth/signup" method="POST">
+            <div class="name">
+                <label for="new-name">Name:</label>
+                <input id="new-name" type="text" name="name">
+            </div>
+            <br />
+            <div class="email">
+                <label for="new-email">Email:</label>
+                <input id="new-email" type="email" name="email">
+            </div>
+            <br />
+            <div class="password">
+                <label for="new-password">Password:</label>
+                <input id="new-password" type="password" name="password">
+            </div>
+            <br />
+            <input class="submitButton btn btn-secondary btn-lg" type="submit" value="Let's Get To Searching!">
+        </form>
+    </div>
+    <div class="image">
+    </div>
+</div>
+

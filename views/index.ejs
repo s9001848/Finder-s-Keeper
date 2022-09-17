@@ -1,1 +1,30 @@
-<h2>Homepage</h2>
+<nav class="navBorder navbar navbar-light" style="background-color: #c4c4c4;">
+    <h3 class="navTags">Finder's Keeper</h3>
+</nav>
+
+<div class="parent">
+    <div class="child">
+    <h1>Saving one dog will not change the world, but surely for that one dog, the world will change forever</h1>
+            <% if (!currentUser) { %>
+                <button class="btn btn-secondary btn-lg"><a href="/auth/signup">Signup</a></button>
+                <br />
+                <button class="btn btn-secondary btn-lg"><a href="/auth/login">Login</a></button>
+                <% } else { %>
+                    <button class="btn btn-secondary btn-lg"><a href="/auth/logout">Logout</a></button>
+                    <br />
+                    <button class="btn btn-secondary btn-lg"><a href="/animals">Search For Pets</a></button>
+                <% } %>
+        </div> 
+        <div class="image">
+        </div>
+</div>
+
+<!-- <% animals.forEach(animal => { %>
+    <div>
+        <p><%= animal.species %> </p>
+        <p><%= animal.name %></p>
+        <p><%= animal.status %></p>
+    </div>
+<% }) %>  -->
+
+
