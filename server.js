@@ -11,6 +11,7 @@ const methodOverride = require('method-override');
 const { default: axios } = require('axios');
 const petFinderKey = process.env.APIKEY
 const petFinderSecret = process.env.APISECRET
+const db = require('./models');
 
 
 const SECRET_SESSION = process.env.SECRET_SESSION;
@@ -44,15 +45,25 @@ app.use((req, res, next) => {
 });
 
 // Add this above /auth controllers
-app.get('/profile', isLoggedIn, (req, res) => {
+app.get('/profile', isLoggedIn, async (req, res) => {
+  try {
   const { id, name, email } = req.user.get();
-  res.render('profile', { id, name, email });
+  const favpets = await db.favoritepet.findAll({})
+  res.render('profile', { name, animals:favpets });
+  favpets.forEach(pet => {
+  })
+  // console.log(favpets)
+}
+  catch (error){
+    console.log(error)
+  }
+  // res.render('profile', { id, name, email });
 });
 
 // controllers
 app.use('/auth', require('./controllers/auth'));
-// app.use('/animals', require('./controllers/animals.js'));
-// app.use('/profile', require('./controllers/profile'));
+app.use('/animals', require('./controllers/animals.js'));
+app.use('/profile', require('./controllers/comment'));
 
 //home route
 app.get('/', (req, res) => {

@@ -31,7 +31,7 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-![Wireframe-ERD](WF-ERD-Unit2.png)
+![Wireframe-ERD](Wireframe_ERD_Project2.png)
 ----------------------------------------------------------
 ### User Stories
 

@@ -1,0 +1,113 @@
+<!-- Nav Bar -->
+<nav class="navBorder navbar navbar-light" style="background-color: #c4c4c4;">
+    <h3 class="navTags">Finders Keeper</h3>
+    <a class="navTags" href="/">Home</a>
+    <a class="navTags" href="/profile">Profile</a>
+    <a class="navTags" href="/auth/logout">Logout</a>
+</nav>
+
+<!-- All of the favroited animals information -->
+<div class="container">
+    <div class="BigAnimalInfo">
+        <h1>
+            <%= animalName  %> 
+        </h1>
+        <h3>
+            Status: <%= animalStatus %> 
+        </h3>
+    </div>
+    <div class="image">
+        <% if(animalImage) {%>
+            <img src="<%= animalImage %> " alt="<%= animalName %> ">
+        <% } else { %>
+            <img src="https://2gyntc2a2i9a22ifya16a222-wpengine.netdna-ssl.com/wp-content/uploads/sites/29/2014/12/Image-Not-Available.jpg" alt="<%= animalName  %>">
+        <% } %> 
+    </div>
+    <div class="moreInfo">
+        <div class="theInfoOnly">
+            <h6 class="age">
+                Age: <%= animalAge %> 
+            </h6>
+            <h6>
+                Breed: <%= animalBreed %> 
+            </h6>
+            <h6>
+                Gender: <%= animalGender %> 
+            </h6>
+            <% if (animalBabies) { %>
+                <h6>Spayed or Neutered: Yes</h6>
+            <% } else {%>
+                <h6>Spayed or Neutered: No</h6>
+            <% } %>
+            <% if (animalHouseTrained) { %>
+                <h6>House Trained: Yes</h6>
+            <% } else {%>
+                <h6>House Trained: No</h6>
+            <% } %>
+            <% if (animalShots) { %>
+                <h6>Up To Date Shots/Vaccinations: Yes</h6>
+            <% } else {%>
+                <h6>Up To Date Shots/Vaccinations: No</h6>
+            <% } %>
+            <div class="contactInfo">
+                <h6>Contact Info:</h6>
+                <% if (animalContact.phone) { %>
+                    <p>Phone Number: <%= animalContact.phone %></p>
+                <% } else {%>
+                    <p>No Phone Number Indicated</p>
+                <% } %>
+
+                <% if (animalContact.email) { %>
+                    <p>Email: <%= animalContact.email %></p>
+                <% } else {%>
+                    <p>No Email Address Indicated</p>
+                <% } %>
+
+                <% if (animalContact.address1) { %>
+                    <p>Address: <%= animalContact.address.address1 %>, <%= animalContact.address.city %>, <%= animalContact.address.state %>, <%= animalContact.address.postcode %>, <%= animalContact.address.country %> </p>
+                <% } else {%>
+                    <p>Address: <%= animalContact.address.city %>, <%= animalContact.address.state %>, <%= animalContact.address.postcode %>, <%= animalContact.address.country %> </p>
+                <% } %>
+                <% if (animalUrl) { %>
+                    <h6> See More About <a target="_blank" href="<%= animalUrl %>"><%= animalName %> </a> at PetFinder.com </h6> 
+               <% } else {%> 
+                    <p>No URL Indicated</p>
+              <% } %>
+            </div>
+                <% if (animalDes) { %> 
+                    <h6> Description: </h6>
+                    <h6 class="animalDes"><%= animalDes %> </h6>
+                <% } else {%>
+                    <h6> Description: </h6>
+                    <h6 class="animalDes">No description, press the link above to know more</h6>
+                <% } %>
+        </div>
+    </div>
+
+    <!-- All of the comments information -->
+<div class="comments">
+    <h2>Leave a Comment on <%= animalName %> : </h2>
+    <p>Here at Finders Keeper, everyone will be able to find their animal soul mates, tell us what you love about <strong><%= animalName %></strong>!</p>
+    <form method="POST" action="/profile/<%= animalId %>/comments">
+    <input type="text" id="description" name="description" style="width: 500px; height: 30px;" >
+    <input type="submit" >
+    </form>
+    <div class="perComment">
+        <ul class="commentList">
+            <% comments.forEach((comment) => { %>
+                <div class="actualComment">
+                    <li>
+                        <%= comment.description  %>
+                    </li>
+                    <form  class="buttonForm" action="/profile/<%= comment.animalId %>/comment/<%= comment.id %>?_method=DELETE" method="POST">
+                        <button type="submit" class="deleteButton btn btn-info">Remove Comment</button>
+                    </form>
+                    <a href="/profile/<%= animalId  %>/edit">
+                        <button class="deleteButton btn btn-info"> Edit Comment </button>
+                    </a>
+                </div>
+                <% }) %> 
+            </ul>
+        </div>
+    </div>
+</div>

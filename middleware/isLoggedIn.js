@@ -5,6 +5,7 @@ function isLoggedIn(req, res, next) {
     } else {
         next();
     }
+    // next();
 }
 
 module.exports = isLoggedIn;
