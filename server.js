@@ -49,7 +49,7 @@ app.get('/profile', isLoggedIn, async (req, res) => {
   try {
   const { id, name, email } = req.user.get();
   const favpets = await db.favoritepet.findAll({})
-  res.render('profile', { name, animals:favpets });
+  res.render('profile', { name, animals:favpets, root: req.get("host") });
   favpets.forEach(pet => {
   })
   // console.log(favpets)
@@ -82,7 +82,7 @@ app.get('/', (req, res) => {
       axios(options)
         .then((response) => {
           let animals = response.data.animals
-          res.render('index', { animals: animals })
+          res.render('index', { animals: animals, root: req.get("host") })
         })
         .catch(error => {
           console.log(error)

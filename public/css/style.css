@@ -1,9 +1,81 @@
-nav ul li {
-  text-decoration: none;
-  display: inline-block;
-  margin-right: .3em;
+body {
+    background: rgb(255, 241, 244);
+}
+
+button {
+    margin-top: 10px;
+}
+
+img {
+    margin-top: 0;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.navTags {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin: 10px;
+}
+.navBorder {
+    border-bottom: 2px solid black;
+}
+
+.headingText {
+    margin-top: 20px;
+}
+
+.heading {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#zipcodeInput {
+    width: 500px;
+    height: 30px
+}
+
+.animalName {
+    text-decoration: none;
+    color: black;
+    cursor: default;
+    text-decoration: none;
+    color: blue;
+}
+
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.child {
+    margin: auto;
+}
+
+.petInfo {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 0;
+}
+
+a {
+    color: blue;
+}
+
+.btn-secondary {
+    background-color: whitesmoke;
+    color: blue;
 }
 
 h1 {
-  color: black;
+    font-weight: bold;
 }

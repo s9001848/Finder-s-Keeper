@@ -14,13 +14,18 @@
                 <h3>
                     <a href="/profile/<%= animals[i].animalId %> "><%= animals[i].name %> </a>
                 </h3>
-                <%= animals[i].image %>
+                <% if(animals[i].image) {%>
+                    <img src="<%= animals[i].image %> " alt="<%= animals[i].name %> ">
+                <% } else { %>
+                        <p>No Image Avaliable</p>
+                <% } %> 
                 <h5> Age: <%= animals[i].age %> </h5>
                 <% if (animals[i].breed != null) {%> 
                 <h5> Breed: <%= animals[i].breed %> </h5> 
                 <% } else { %> 
                     <h5>Breed: Unknown</h5>
                 <% } %>
+        
                 <form action="/profile/<%= animals[i].id %>?_method=DELETE" method="POST">
                     <input value="Remove from Favorites" type="submit" class="btn btn-primary">
                 </form>
@@ -28,4 +33,5 @@
         </div>
     <% } %>
 </div>
+
 

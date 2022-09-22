@@ -1,5 +1,5 @@
 <!-- Nav Bar -->
-<nav class=" navBorder navbar navbar-light" style="background-color: #c4c4c4;">
+<nav class=" navBorder navbar navbar-light" style="background-color: #ffffff;">
     <h3 class="navTags" >Finders Keeper</h3>
     <a class="navTags" href="/">Home</a>
     <a class="navTags" href="/profile">Profile</a>
@@ -11,7 +11,7 @@
 <!-- where user need to put zipcode -->
 <div class="heading">
     <form method="GET" action="/animals/zipsearch">
-        <label for="zipcode input">Seach through Zip Code:</label>
+        <label for="zipcode input"><b>Seach through Zip Code:</b></label>
         <input type="text" id="zipcodeInput" name="zipcode">
         <input type="Submit">
     </form>
@@ -23,7 +23,7 @@
         <div class="child">
             <div class="petInfo">
                 <h3>
-                    <a class="animalName" href="/animals/<%= animal.id %>"><%= animal.name %></a>
+                    <a class="animalName" href="/profile/<%= animal.id %>"><%= animal.name %></a>
                 </h3>
                 <h5> Age: <%= animal.age %> </h5>
                 <h5> Breed: <%= animal.breeds.primary %> </h5> 
@@ -36,11 +36,13 @@
                     <input hidden type="text" name="name" value= "<%= animal.name %>">
                     <input hidden type="text" name="status" value= "<%= animal.status %>">
                     <input hidden type="text" name="age" value= "<%= animal.age %>">
-                    <input hidden type="text" name="image" value= "<% animal.url %>">
+                    <% if(animal.photos[0]) {%>
+                        <input hidden type="text" name="image" value="<%= animal.photos[0]?.medium %>">
+                        <% }%>    
                     <input hidden type="text" name="breed" value= "<%= animal.breeds.primary %>">
                     <input hidden type="text" name="gender" value= "<%= animal.gender %>">
                     <input hidden type="text" name="id" value= "<%= animal.id %>">
-                    <input hidden type="text" name="descrption" value= "<%= animal.description%>">
+                    <input hidden type="text" name="description" value= "<%= animal.description%>">
                     <button type="submit" class="btn btn-primary"> Add to favorites</button>
                 </form>
             </div>
@@ -48,4 +50,3 @@
     <% }) %> 
 </div>
 
-<!-- CSS Link -->

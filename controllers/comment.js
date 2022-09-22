@@ -32,7 +32,10 @@ router.post('/:id', isLoggedIn, (req, res) => {
         status: data.status,
         age: data.age,
         breed: data.breed,
-        userId: res.locals.currentUser.id
+        userId: res.locals.currentUser.id,
+        image: data.image,
+        gender: data.gender,
+        description: data.description
     })
     .then((newFavePet) => {
         res.redirect('/profile')

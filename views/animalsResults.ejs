@@ -1,6 +1,3 @@
-<!-- CSS Link -->
-<link rel="stylesheet" href="/static/css/style.css">
-
 <!-- Nav Bar -->
 <nav class=" navBorder navbar navbar-light" style="background-color: #ffffff;">
     <h3 class="navTags" >Finders Keeper</h3>
@@ -29,7 +26,7 @@
                     <% if(animal.photos[0]) {%>
                         <img src="<%= animal.photos[0].medium %> " alt="<%= animal.name %> ">
                     <% } else { %>
-                        <p>No Image Avaliable, Check Organization Website</p>
+                        <p>No Image Avaliable</p>
                     <% } %> 
                     <form method="POST" action="/profile/addFave">
                         <input hidden type="text" name="name" value= "<%= animal.name %>">

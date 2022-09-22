@@ -1,14 +1,14 @@
-<nav class="navBorder navbar navbar-light" style="background-color: #c4c4c4;">
-    <h3 class="navTags">Finder's Keeper</h3>
+<nav class="navBorder navbar navbar-light" style="background-color: #ffffff;">
+    <h3 class="navTags">Finders Keeper</h3>
 </nav>
 
 <div class="parent">
     <div class="child">
-    <h1>Saving one dog will not change the world, but surely for that one dog, the world will change forever</h1>
+    <h1>"Saving one dog will not change the world, but surely for that one dog, the world will change forever"<br><br>Sign up below to change an animal's life! </h1>
             <% if (!currentUser) { %>
-                <button class="btn btn-secondary btn-lg"><a href="/auth/signup">Signup</a></button>
+                <button class="btn btn-secondary btn-lg"><a href="/auth/signup">Sign up</a></button>
                 <br />
-                <button class="btn btn-secondary btn-lg"><a href="/auth/login">Login</a></button>
+                <button class="btn btn-secondary btn-lg"><a href="/auth/login">Log in</a></button>
                 <% } else { %>
                     <button class="btn btn-secondary btn-lg"><a href="/auth/logout">Logout</a></button>
                     <br />
@@ -16,15 +16,8 @@
                 <% } %>
         </div> 
         <div class="image">
+            <img src="http://<%= root %>/img/charlie.jpg" alt="Charlie" width="350px" height="500px" />
         </div>
 </div>
-
-<!-- <% animals.forEach(animal => { %>
-    <div>
-        <p><%= animal.species %> </p>
-        <p><%= animal.name %></p>
-        <p><%= animal.status %></p>
-    </div>
-<% }) %>  -->
 
 
