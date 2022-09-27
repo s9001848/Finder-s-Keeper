@@ -60,12 +60,18 @@ img {
 }
 
 .petInfo {
-    background-color: white;
-    padding: 15px;
-    border: 1px solid black;
-    border-radius: 10px;
-    margin-bottom: 0;
-}
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+@media (min-width: 768px) {
+        .petInfo {
+          font-size: 3.5rem;
+        }
+      }
 
 a {
     color: blue;
@@ -78,4 +84,23 @@ a {
 
 h1 {
     font-weight: bold;
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: nowrap;
+    height: 2.75rem;
+    padding-left: 20px;
+}
+
+.parent {
+    text-align: left;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;
+    max-width: 1200px;
+}
+
+.headingText {
+    margin-left: 200px;
 }

@@ -33,6 +33,7 @@
     "axios": "^0.27.2",
     "bcrypt": "^5.0.1",
     "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.2.1",
     "connect-flash": "^0.1.1",
     "curl": "^0.1.4",
     "dotenv": "^16.0.2",
