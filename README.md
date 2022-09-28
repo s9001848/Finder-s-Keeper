@@ -1,6 +1,15 @@
 # Finders Keeper
 Finders Keeper is an app to help people search for adoptable pets near them. The goal of this app is to help people find their forever soulpet(s). 
 
+## User Story
+
+As a user, I want to be able to search for adoptable pet tailored to my needs so that I can help the animals in need of a forever home. 
+
+* Adopt an animal searching through Zip Code
+* Add an animal to the user's favroite
+* Remove an animal from the user's favroite
+* Click on the specific animal to view their details 
+
 ## Tech Stack Used
 * Axios 
 * Express 
@@ -44,7 +53,14 @@ https://www.petfinder.com/developers/v2/docs/
     })
 ```
 
-User Stories
+## Challenges
+
+* CSS displaying how I would like my website to look like
+* Clicking on the animals that do not have pictures
+* Organizing my controller files
+* Finding a specific Bootstrap that fit my aesthetic
+
+## Deployed Here
 
 
 
