@@ -3,7 +3,7 @@ Finders Keeper is an app to help people search for adoptable pets near them. The
 
 ## User Story
 
-As a user, I want to be able to search for adoptable pet tailored to my needs so that I can help the animals in need of a forever home. 
+As a user, I want to be able to search for adoptable pet tailored to user's needs so that I can help the animals in need of a forever home. 
 
 * Adopt an animal searching through Zip Code
 * Add an animal to the user's favroite
