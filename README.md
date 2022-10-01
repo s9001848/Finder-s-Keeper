@@ -2,7 +2,6 @@
 Finders Keeper is an app to help people search for adoptable pets near them. The goal of this app is to help people find their forever soulpet(s). 
 
 ## User Story
-
 As a user, I want to be able to search for adoptable pet tailored to user's needs so that I can help the animals in need of a forever home. 
 
 * Adopt an animal searching through Zip Code
@@ -23,6 +22,50 @@ As a user, I want to be able to search for adoptable pet tailored to user's need
 
 ## API
 https://www.petfinder.com/developers/v2/docs/
+
+## Installation Guide
+Get Started
+```js
+git clone https://github.com/s9001848/Finders-Keeper
+```
+```js
+cd supreme-engine
+```
+```js
+npm install
+```
+```js
+touch .env
+```
+Add Inside .env File
+```js
+SECRET_SESSION=finderskeeper
+```
+```js
+APIKEY=TKnPguUdqsf1ivo3i8CxlJeHChxt5O88OadhOMDw2ZjrBVbJZE
+```
+```js
+APISECRET=kMcPJHlouZIvSUmyy7cDxBxOMJxnU2qozHib8BKd
+```
+Create a Database
+```js
+npm install sequelize-cl
+```
+```js
+npx sequelize-cli db:create finders-keeper
+```
+Migrate the Database
+```js
+npx sequelize-cli db:migrate
+```
+Seed the Database
+```js
+npx sequelize-cli db:seed:all
+```
+Start the Server
+```js
+npm start
+```
 
 ## Accessing API
 * To access PetFinder API, I must receive the APIKEY AND APISECRET first, then use 
