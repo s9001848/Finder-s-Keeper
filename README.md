@@ -104,7 +104,7 @@ npm start
 * Finding a specific Bootstrap that fit my aesthetic
 
 ## Homepage Interface
-![Finders Keeper Homepage Interface](FindersKeeperHomepage.png)
+![Finders Keeper Homepage Interface](FK.png)
 
 
 ## Deployed Here
