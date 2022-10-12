@@ -103,6 +103,10 @@ npm start
 * Organizing my controller files
 * Finding a specific Bootstrap that fit my aesthetic
 
+## Homepage Interface
+![Finders Keeper Homepage Interface](FindersKeeperHomepage.png)
+
+
 ## Deployed Here
 https://finders-keeper.herokuapp.com/
 
